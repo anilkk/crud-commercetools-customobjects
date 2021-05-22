@@ -1229,7 +1229,7 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@commercetools-frontend/actions-global@20.2.1":
+"@commercetools-frontend/actions-global@20.2.1", "@commercetools-frontend/actions-global@^20.2.1":
   version "20.2.1"
   resolved "https://registry.yarnpkg.com/@commercetools-frontend/actions-global/-/actions-global-20.2.1.tgz#cb33252ffd7921a3903d600282699e9af5661d08"
   integrity sha512-C4nObN7WeVvmXFPmRsVkQhzwQSw76ltGuUblIfd+5kBVVIl+h0c6vjCUX6eWjwstAw9xA5/wik7S9oy+PviotQ==
