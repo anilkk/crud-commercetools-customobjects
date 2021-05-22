@@ -16,11 +16,12 @@
     "versions:uikit": "manypkg upgrade @commercetools-uikit"
   },
   "dependencies": {
-    "@apollo/client": "3.3.18",
+    "@apollo/client": "^3.3.19",
     "@commercetools-frontend/actions-global": "20.2.1",
     "@commercetools-frontend/application-components": "20.2.1",
     "@commercetools-frontend/application-shell": "20.2.1",
     "@commercetools-frontend/assets": "18.5.4",
+    "@commercetools-frontend/constants": "^20.0.1",
     "@commercetools-frontend/i18n": "20.2.1",
     "@commercetools-frontend/permissions": "20.2.1",
     "@commercetools-uikit/flat-button": "^12.0.4",
